@@ -2,7 +2,7 @@ package com.meli.otavio.model;
 
 import java.time.OffsetDateTime;
 
-public class Transaction {
+public class Transacao {
     private double valor;
     private OffsetDateTime dataHora;
 
